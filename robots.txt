@@ -1,1 +1,1 @@
-Sitemap: https://studioname.github.io/blog/sitemap.xml
+Sitemap: https://blog.conanhollands.com/sitemap.xml
